@@ -65,7 +65,7 @@ Data is sent to the Blynk IoT platform for remote monitoring.
 * Sk. Sohail (247R1A67B7)
   
 ##👨‍💻 Team Members
-* * Sk. Sohail (247R1A67B7)
+* Sk. Sohail (247R1A67B7)
 * T. Pavani (247R1A67B8)
 * A. Surya Teja (247R1A6765)
 * K. Akshaya Reddy (247R1A6789)
